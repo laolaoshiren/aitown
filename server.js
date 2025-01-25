@@ -4,7 +4,7 @@ const http = require('http').createServer(app);
 const io = require('socket.io')(http);
 const axios = require('axios');
 
-const DEEPSEEK_API_KEY = 'sk-ee23c831346b4758b861aba027286088';
+const DEEPSEEK_API_KEY = 'sk-xxxxxxxxxxxxxxxxxxxxxxxx';
 
 // 存储所有角色信息
 const characters = new Map();
