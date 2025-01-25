@@ -1,14 +1,14 @@
 # AI智慧小镇
 
 ![访问统计](https://visitor-badge.laobi.icu/badge?page_id=ai-town-project)
-
-一个基于 Node.js 和 Socket.IO 开发的实时交互式虚拟小镇，AI角色们在这里自主活动、交谈和互动。
-
-## 项目状态
 ![GitHub stars](https://img.shields.io/github/stars/laolaoshiren/aitown?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/laolaoshiren/aitown?style=social)
 ![GitHub issues](https://img.shields.io/github/issues/laolaoshiren/aitown)
 ![GitHub license](https://img.shields.io/github/license/laolaoshiren/aitown)
+
+一个基于 Node.js 和 Socket.IO 开发的实时交互式虚拟小镇，AI角色们在这里自主活动、交谈和互动。
+
+
 
 ## 功能特点
 
