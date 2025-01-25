@@ -42,8 +42,8 @@
 
 2. 克隆项目并安装依赖：
 ```bash
-git clone [项目地址]
-cd AI小镇
+git clone [[项目地址]](https://github.com/laolaoshiren/aitown.git)
+cd aitown
 npm install
 ```
 
